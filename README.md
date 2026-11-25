@@ -1,6 +1,6 @@
 # Olivier Evrard
 
-**Ingénieur data · Python, IA appliquée et automatisation**
+**IA appliquée et automatisation**
 
 Après 35 ans dans l’imprimerie, où j’ai travaillé en fabrication et participé à l’automatisation de processus de production, je me suis formé au développement en science des données et à la cybersécurité. Aujourd’hui, je développe des outils pour extraire des informations de documents, automatiser des tâches et connecter des équipements.
 
