@@ -2,7 +2,7 @@
 
 **IA appliquée et automatisation**
 
-Après 35 ans dans l’imprimerie, où j’ai travaillé en fabrication et participé à l’automatisation de processus de production, je me suis formé au développement en science des données et à la cybersécurité. Aujourd’hui, je développe des outils pour extraire des informations de documents, automatiser des tâches et connecter des équipements.
+Après 35 ans dans l’imprimerie, où j’ai travaillé en fabrication et participé à l’automatisation de processus de production, je me suis formé au développement en science des données, à l'automatisation des process et à la cybersécurité. Aujourd’hui, je développe des outils pour extraire des informations de documents, automatiser des tâches et connecter des équipements.
 
 ## Projets
 
@@ -15,10 +15,10 @@ Après 35 ans dans l’imprimerie, où j’ai travaillé en fabrication et parti
 
 ## Outils
 
-- **Data et IA** · Python, SQL, pandas, scikit-learn, FAISS
+- **Data et IA** · Python, SQL, pandas, scikit-learn, FAISS, LM studio
 - **Applications et déploiement** · FastAPI, Streamlit, Docker, PostgreSQL, MLflow
 - **Automatisation et IoT** · Node-RED, MQTT, Home Assistant, Airtable, Make
 
 ## Ce que j’explore
 
-Je m’intéresse au déploiement local de modèles et à l’évaluation des systèmes RAG. Sur un bon de commande, par exemple, le système doit retrouver le bon chiffre, mais aussi montrer d’où il vient dans le document.
+Je m’intéresse au déploiement local de modèles afin de protéger les données entreprise et à l’évaluation des systèmes RAG.
