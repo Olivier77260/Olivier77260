@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olivier Evrard
 
-<!--
-**Olivier77260/Olivier77260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingénieur data · Python, IA appliquée et automatisation**
 
-Here are some ideas to get you started:
+Après 35 ans dans l’imprimerie, où j’ai travaillé en fabrication et participé à l’automatisation de processus de production, je me suis formé au développement en science des données et à la cybersécurité. Aujourd’hui, je développe des outils pour extraire des informations de documents, automatiser des tâches et connecter des équipements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+
+| Projet | Ce que j’y développe |
+| --- | --- |
+| **Extraction d’informations dans des PDF** | Un prototype RAG pour retrouver le nombre d’exemplaires dans des bons de commande clients, avec Python et FAISS. |
+| **Expérimentation et déploiement de modèles** | Des essais de suivi d’expériences avec MLflow et de déploiement de modèles en local. |
+| **Domotique et IoT** | Des flux Node-RED et MQTT pour faire remonter l’état de capteurs et synchroniser des équipements avec Home Assistant ou Domoticz. |
+| **Gestion de réservations** | Une application de réservation de terrains avec Bubble, Airtable et Make, de la consultation des créneaux à l’export des données. |
+
+## Outils
+
+- **Data et IA** · Python, SQL, pandas, scikit-learn, FAISS
+- **Applications et déploiement** · FastAPI, Streamlit, Docker, PostgreSQL, MLflow
+- **Automatisation et IoT** · Node-RED, MQTT, Home Assistant, Airtable, Make
+
+## Ce que j’explore
+
+Je m’intéresse au déploiement local de modèles et à l’évaluation des systèmes RAG. Sur un bon de commande, par exemple, le système doit retrouver le bon chiffre, mais aussi montrer d’où il vient dans le document.
